@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/carrotnom-92106.wav-49a0622d0c4b17a8da19f4cc99241841.sample"
+
+[deps]
+
+source_file="res://sound/carrotnom-92106.wav"
+dest_files=[ "res://.import/carrotnom-92106.wav-49a0622d0c4b17a8da19f4cc99241841.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
